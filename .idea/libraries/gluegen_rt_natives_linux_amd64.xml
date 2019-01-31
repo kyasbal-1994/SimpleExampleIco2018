@@ -1,0 +1,57 @@
+<component name="libraryTable">
+  <library name="gluegen-rt-natives-linux-amd64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-android-natives-solaris-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-android-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-android-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-android-natives-solaris-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-android-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-natives-android-aarch64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-android-natives-android-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-android-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-android-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-android-natives-android-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-android-natives-solaris-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-natives-solaris-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-android-natives-android-aarch64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-android-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-natives-solaris-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-natives-android-aarch64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-android-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-natives-linux-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-android-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-android-natives-android-aarch64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-natives-solaris-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-natives-linux-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-android-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-natives-android-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-android-natives-linux-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-android-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-android-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-android-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-natives-android-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-android-natives-linux-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-natives-solaris-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jama.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt-android-natives-solaris-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/jogl-all-natives-linux-i586.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
